@@ -1,11 +1,10 @@
 {
   "main": {
     "name":"Satyam Bhardwaj",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Software Developer(ReactJS Developer)",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Being a student of Electronics and Communication, I've deep interest in coding and Web Development. Learning new Tech is a hobby that I cheer a lot. Been developing websites for some time now. Don't have complete knowledge of everything, but that's how life is learning and adapting to new changes. Do visit some of my projects mentioned below.",
     "email": "satyambhardawaj@gmail.com",
     "phone": "8178275115",
     "address":{
@@ -40,7 +39,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"DCRUST",
@@ -54,13 +52,13 @@
         "company":"SpanishBolo",
         "title":"Web Development Intern",
         "years":"June 2020 - August 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Designed one website from scratch and maintained the other website. Coordinated with content team to deliever best user experience. Designed an efficient UI and wrote a well written code."
       },
       {
         "company":"Decartem",
         "title":"Full Stack Developer Intern",
         "years":"March 2020 - June 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Developed an online classes system for various schools in NCR Region. Tech stack used was Django, JavaScript, AWS. Coordinated with fellow team mates on regular basis."
       }
     ],
     "skills":[
@@ -77,8 +75,16 @@
         "level":"55%"
       },
       {
+        "name":"Django",
+        "level":"50%"
+      },
+      {
         "name":"CSS",
         "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
       },
       {
         "name":"HTML5",
@@ -97,34 +103,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Amazon Clone",
+        "category":"My biggest ReactJS Project",
+        "image":"amazonIcon.png",
+        "url":"https://fir-5d560.web.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Google Clone",
+        "category":"Built the project using ReactJS",
+        "image":"googleIcon.png",
+        "url":"https://clone-6522e.web.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"WhatsApp Clone",
+        "category":"Designed WhatsApp Web using ReactJS ",
+        "image":"whatsappIcon.png",
+        "url":"https://whatsapp-1072c.web.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Instagram Clone",
+        "category":"Just a look alike clone of Original Instagram",
+        "image":"InstaIcon.png",
+        "url":"https://insta-clone-cc105.web.app/"
       }
     ]
   },

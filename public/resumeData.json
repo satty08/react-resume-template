@@ -109,6 +109,12 @@
         "url":"https://fir-5d560.web.app/"
       },
       {
+        "title":"Netflix Clone",
+        "category":"The look alike clone of Netflix. Do check",
+        "image":"netflix.jpeg",
+        "url":"https://netflix-4e50a.web.app/"
+      },
+      {
         "title":"Google Clone",
         "category":"Built the project using ReactJS",
         "image":"googleIcon.png",

@@ -109,6 +109,12 @@
         "url":"https://fir-5d560.web.app/"
       },
       {
+        "title":"Discord Clone",
+        "category":"Designed the Discord clone using React and Redux",
+        "image":"discord.webp",
+        "url":"https://discord-d758f.firebaseapp.com/"
+      },
+      {
         "title":"Netflix Clone",
         "category":"The look alike clone of Netflix. Do check",
         "image":"netflix.jpg",

@@ -71,8 +71,12 @@
         "level":"65%"
       },
       {
-        "name":"ReactJs",
+        "name":"React.js",
         "level":"55%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
       },
       {
         "name":"Django",

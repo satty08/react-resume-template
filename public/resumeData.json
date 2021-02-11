@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Satyam Bhardwaj",
-    "occupation":"Software Developer(ReactJS Developer)",
+    "occupation":"Software Developer(MERN Developer)",
     "description":"",
     "image":"SatyamBhardwaj.jpg",
     "bio":"Being a student of Electronics and Communication, I've deep interest in coding and Web Development. Learning new Tech is a hobby that I cheer a lot. Been developing websites for some time now. Don't have complete knowledge of everything, but that's how life is learning and adapting to new changes. Do visit some of my projects mentioned below.",
@@ -14,7 +14,7 @@
       "zip": "121008"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1f1Inu9UqYry8PQ5qDx9ZvatSNtS6vT-X/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1hQbT_IA828MuF-kjdL3C3iHlFHLbKxwr/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -44,13 +44,13 @@
         "school":"DCRUST",
         "degree":"B.Tech in Electronics and Communication",
         "graduated":"June, 2021(Expected)",
-        "description":"Cumulative GPA: 6.32"
+        "description":"Cumulative GPA: 6.5"
       }
     ],
     "work":[
       {
         "company":"SpanishBolo",
-        "title":"Web Development Intern",
+        "title":"Software Development Intern",
         "years":"June 2020 - August 2020",
         "description":"Designed one website from scratch and maintained the other website. Coordinated with content team to deliever best user experience. Designed an efficient UI and wrote a well readable code."
       },
@@ -72,11 +72,11 @@
       },
       {
         "name":"React.js",
-        "level":"55%"
+        "level":"65%"
       },
       {
         "name":"Node.js",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"Django",
@@ -92,7 +92,7 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"AWS",

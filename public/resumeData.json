@@ -14,7 +14,7 @@
       "zip": "121008"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1hQbT_IA828MuF-kjdL3C3iHlFHLbKxwr/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1f46LRCwOblJzzoyAnr4JfK1jGNFa-C3u/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -72,7 +72,7 @@
       },
       {
         "name":"React.js",
-        "level":"65%"
+        "level":"70%"
       },
       {
         "name":"Node.js",
@@ -107,8 +107,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"MusicBook",
+        "category":"Place where you can read Books and listen to your favorite music - Beta Version released",
+        "image":"MusicBook.png",
+        "url":"https://musicbook.live"
+      },
+      {
         "title":"Amazon Clone",
-        "category":"My biggest ReactJS Project",
+        "category":"E-commerce project using React.js",
         "image":"amazonIcon.png",
         "url":"https://fir-5d560.web.app/"
       },
